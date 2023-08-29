@@ -11,4 +11,4 @@ C++ offers a variety of datatypes to accommodate different types of data:
 1. **Characters (char)**: Used for storing individual characters, like letters, digits, or symbols.
 1. **Boolean (bool)**: Used for storing true or false values, helpful for decision-making and conditional statements.
 
-2. ## Uses of Datatypes and Variables
+## Uses of Datatypes and Variables
