@@ -19,3 +19,17 @@ C++ offers a variety of datatypes to accommodate different types of data:
 1. **Decision-Making**: Boolean variables are crucial for implementing decision-making logic using conditional statements like if, else, and switch.
 1. **Looping**: Variables are frequently used as loop counters to control the number of iterations in loops like for and while.
 1. **Data Storage**: Variables store data temporarily during the execution of a program. This data can be used to perform various tasks and calculations.
+
+## Codes
+### [Helloworld.cpp](https://github.com/Nithish-1804/Data-Types-and-Variables/blob/main/Helloworld%20%20(11-07).cpp)
+A "Hello World!" program in C++ is a simple and common introductory code example. It consists of just a few lines of code and is used to demonstrate the basic structure of a C++ program. When executed, it prints the message "Hello, World!" to the console or terminal.
+
+### [DataTypes_1.cpp](https://github.com/Nithish-1804/Data-Types-and-Variables/blob/main/DataTypes_1%20(13-07).cpp)
+
+
+### [DataTypes_2.cpp](https://github.com/Nithish-1804/Data-Types-and-Variables/blob/main/DataTypes_2%20(13-07).cpp)
+
+
+### [DataTypes_3.cpp](https://github.com/Nithish-1804/Data-Types-and-Variables/blob/main/DataTypes_3%20(13-07).cpp)
+
+
