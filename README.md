@@ -22,7 +22,7 @@ C++ offers a variety of datatypes to accommodate different types of data:
 
 ## Codes
 ### [Helloworld.cpp](https://github.com/Nithish-1804/Data-Types-and-Variables/blob/main/Helloworld%20%20(11-07).cpp)
-A "Hello World!" program in C++ is a simple and common introductory code example. It consists of just a few lines of code and is used to demonstrate the basic structure of a C++ program. When executed, it prints the message "Hello, World!" to the console or terminal.
+A "Hello, World!" program in C++ is a simple and common introductory code example. It consists of just a few lines of code and is used to demonstrate the basic structure of a C++ program. When executed, it prints the message "Hello, World!" to the console or terminal.
 
 ### [DataTypes_1.cpp](https://github.com/Nithish-1804/Data-Types-and-Variables/blob/main/DataTypes_1%20(13-07).cpp)
 
